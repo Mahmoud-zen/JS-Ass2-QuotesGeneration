@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:768px) {
+    h1{
+        font-size: 50px;
+    }
+
+  
+    .display{
+        height:50vh;
+        width: 80%;
+    
+    }
+    
+    p{
+   
+        font-size: 25px;
+       
+    }
+   
+
+    
+}
+@media screen and (min-width:1200px){
+
+    h1{
+        font-size: 80px;
+    }
+
+  
+    .display{
+        height:60vh;
+        width: 80%;
+    
+    }
+    
+    p{
+   
+        font-size: 40px;
+       
+    }
+
+
+}
