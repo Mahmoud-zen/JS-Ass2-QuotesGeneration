@@ -1,5 +1,25 @@
 
+@media screen and (min-width:600px) {
+    h1{
+        font-size: 50px;
+    }
 
+  
+    .display{
+        height:70vh;
+        width: 80%;
+    
+    }
+    
+    p{
+   
+        font-size: 25px;
+       
+    }
+   
+
+    
+}
 
 
 
@@ -14,14 +34,14 @@
 
   
     .display{
-        height:50vh;
+        height:70vh;
         width: 80%;
     
     }
     
     p{
    
-        font-size: 25px;
+        font-size: 30px;
        
     }
    
@@ -36,7 +56,7 @@
 
   
     .display{
-        height:60vh;
+        height:80vh;
         width: 80%;
     
     }
